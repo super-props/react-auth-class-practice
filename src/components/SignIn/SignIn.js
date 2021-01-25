@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
+// Figure out linter error....
 
 import { signIn } from '../../api/auth'
 import messages from '../AutoDismissAlert/messages'
